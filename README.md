@@ -1,6 +1,6 @@
 # Hi there, I'm Yana Kel! 👋 
 
-### Senior Data Analyst / Analytics Engineer
+### Analytics Engineer
 
 Analytics Engineer with hands-on experience in integrating multiple data sources, building ETL/ELT pipelines and delivering end-to-end analytics. Built and optimized data warehouses, data marts, and data models with a focus on data quality, performance, and reliability. Experienced in implementing validation checks, monitoring, and business logic controls to support analytics and reporting.
 
