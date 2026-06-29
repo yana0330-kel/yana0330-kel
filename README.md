@@ -65,4 +65,3 @@ Analytics Engineer with hands-on experience in integrating multiple data sources
 I am always open to discussing data infrastructure optimization, robust business control implementations, or analytical modeling:
 *    **LinkedIn:** [Connect with me](https://linkedin.com)
 *    **Email:** k.y.kel.yana@gmail.com
-помоги красиво отформотировать readme об мне в github"Это прекрасный шаблон! У вас получилась очень структурированная и сильная визитка для GitHub-профиля. Вы выглядите как готовый, ко
