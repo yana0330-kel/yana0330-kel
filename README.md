@@ -1,7 +1,7 @@
-# Hi there, I'm Yana Kel! 👋
+# Hi there, I'm Yana Kel! 
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
-[![Email](https://shields.io)](mailto:k.y.kel.yana@gmail.com)
+📩 **Email:** k.y.kel.yana@gmail.com  
+💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 
 ###  Professional Profile
 Analytics Engineer with hands-on experience in integrating multiple data sources, building ETL/ELT pipelines, and delivering end-to-end analytics. Built and optimized data warehouses, data marts, and data models with a focus on data quality, performance, and reliability. Experienced in implementing validation checks, monitoring, and business logic controls to support analytics and reporting.
@@ -10,25 +10,8 @@ Analytics Engineer with hands-on experience in integrating multiple data sources
 
 ### Technical Stack & Tools
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔹 Core Analytics & Storage</h4>
-      <img src="https://shields.io" alt="SQL">
-      <img src="https://shields.io" alt="PostgreSQL">
-      <img src="https://shields.io" alt="Greenplum"><br>
-      <img src="https://shields.io" alt="ClickHouse">
-      <img src="https://shields.io" alt="Pandas">
-    </td>
-    <td width="50%" valign="top">
-      <h4>🔹 Orchestration & Infrastructure</h4>
-      <img src="https://shields.io" alt="Airflow">
-      <img src="https://shields.io" alt="Docker"><br>
-      <img src="https://shields.io" alt="Git">
-      <img src="https://shields.io" alt="DBeaver">
-    </td>
-  </tr>
-</table>
+*   **Core Analytics & Storage:** SQL, PostgreSQL, Greenplum, ClickHouse, Pandas
+*   **Orchestration & Infrastructure:** Apache Airflow, Docker, Git, DBeaver
 
 ---
 
@@ -43,15 +26,6 @@ Analytics Engineer with hands-on experience in integrating multiple data sources
 *   **Objective:** Built a scalable data lineage pipeline with built-in financial data validation checks.
 *   **Implementation:** Implemented business logic controls, row-count tracking, and null-value monitoring inside staging layers to support executive-level regulatory reporting.
 *   **Stack:** PostgreSQL, Apache Airflow, Docker.
-
----
-
-###  GitHub Activities & Insights
-
-<p align="left">
-  <img src="https://vercel.app" alt="Yana's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
