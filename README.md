@@ -1,13 +1,7 @@
-# Hi there, I'm Yana Kel! 
+# Hi there, I'm Yana Kel! 👋
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
-  </a>
-  <a href="mailto:k.y.kel.yana@gmail.com">
-    <img src="https://shields.io" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![Email](https://shields.io)](mailto:k.y.kel.yana@gmail.com)
 
 ###  Professional Profile
 Analytics Engineer with hands-on experience in integrating multiple data sources, building ETL/ELT pipelines, and delivering end-to-end analytics. Built and optimized data warehouses, data marts, and data models with a focus on data quality, performance, and reliability. Experienced in implementing validation checks, monitoring, and business logic controls to support analytics and reporting.
@@ -63,5 +57,6 @@ Analytics Engineer with hands-on experience in integrating multiple data sources
 
 ###  Contact & Collaboration
 I am always open to discussing data infrastructure optimization, robust business control implementations, or analytical modeling:
-*    **LinkedIn:** [Connect with me](https://linkedin.com)
+*    **LinkedIn:** [Connect with me](https://linkedin)
 *    **Email:** k.y.kel.yana@gmail.com
+
