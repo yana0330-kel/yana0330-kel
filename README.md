@@ -1,8 +1,12 @@
 # Hi there, I'm Yana Kel! 
 
 <p align="left">
-  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
-  <a href="mailto:k.y.kel.yana@gmail.com"><img src="https://shields.io" alt="Email"></a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn">
+  </a>
+  <a href="mailto:k.y.kel.yana@gmail.com">
+    <img src="https://shields.io" alt="Email">
+  </a>
 </p>
 
 ###  Professional Profile
@@ -16,10 +20,11 @@ Analytics Engineer with hands-on experience in integrating multiple data sources
   <tr>
     <td width="50%" valign="top">
       <h4>🔹 Core Analytics & Storage</h4>
-      <img src="https://shields.io" alt="Greenplum">
-      <img src="https://shields.io" alt="PostgreSQL"><br>
-      <img src="https://shields.io" alt="ClickHouse">
       <img src="https://shields.io" alt="SQL">
+      <img src="https://shields.io" alt="PostgreSQL">
+      <img src="https://shields.io" alt="Greenplum"><br>
+      <img src="https://shields.io" alt="ClickHouse">
+      <img src="https://shields.io" alt="Pandas">
     </td>
     <td width="50%" valign="top">
       <h4>🔹 Orchestration & Infrastructure</h4>
