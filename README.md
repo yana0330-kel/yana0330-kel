@@ -12,24 +12,17 @@ Here I share projects around business & product analytics, KPIs, data pipelines 
 ---
 
 ### Technical Stack & Tools
-
 * **Analytics:** Business & Product Analytics, KPI analysis, Cohort & Retention Analysis, Funnel Analysis, A/B Testing, Segmentation, Anomaly Detection
-
 * **SQL & Databases:** SQL, PostgreSQL, Greenplum, ClickHouse, CTEs, Window Functions
-
 * **Python:** Pandas, NumPy, Matplotlib, Jupyter Notebook
-
 * **Data & BI:** Apache Airflow, ETL/ELT, DWH (Raw/Core/DM), Data Marts, Apache Superset, Tableau, Looker Studio, Redash
-
 * **Tools:** Git/GitLab, Docker, DBeaver, Jira, Confluence, VS Code, dbt
-
 ---
 
 ###  Featured Projects & Architecture
 
 ####  [NYC Taxi Data Analytics]([https://github.com](https://github.com/yana0330-kel/taxi-analytics.git))
 End-to-end analytics project based on NYC TLC taxi data.
-
 *  Built an ELT pipeline: CSV → PostgreSQL → Greenplum → ClickHouse
 *  Automated data workflows with Airflow
 *  Created analytical data marts
@@ -38,7 +31,7 @@ End-to-end analytics project based on NYC TLC taxi data.
 * **Stack:** SQL, PostgreSQL, Greenplum, ClickHouse, Python, Pandas, Airflow, Superset.
 
 ####  [Hotel Financial Analytics · In Progress](https://github.com)
-*  Financial and unit economics analysis of 6,050 hotel bookings for 2024.
+Financial and unit economics analysis of 6,050 hotel bookings for 2024.
 *  Analyzed revenue, sales channels and customer segments
 *  Studied unit economics of direct and intermediary channels
 *  Analyzed revenue drivers and booking dynamics
