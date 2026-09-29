@@ -27,7 +27,7 @@ Here I share projects around business & product analytics, KPIs, data pipelines 
 
 ###  Featured Projects & Architecture
 
-####  [NYC Taxi Data Analytics](https://github.com)
+####  [NYC Taxi Data Analytics]([https://github.com](https://github.com/yana0330-kel/taxi-analytics.git))
 End-to-end analytics project based on NYC TLC taxi data.
 
 *  Built an ELT pipeline: CSV → PostgreSQL → Greenplum → ClickHouse
