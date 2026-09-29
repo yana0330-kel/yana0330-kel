@@ -18,7 +18,7 @@ Here I share projects around business & product analytics, KPIs and data visuali
 
 ###  Featured Projects
 
-####  [NYC Taxi Data Analytics]((https://github.com/yana0330-kel/taxi-analytics.git))
+####  [NYC Taxi Data Analytics](https://github.com/yana0330-kel/taxi-analytics.git)
 End-to-end analytics project based on NYC TLC taxi data.
 *  Built an ELT pipeline: CSV → PostgreSQL → Greenplum → ClickHouse
 *  Automated data workflows with Airflow
@@ -27,7 +27,7 @@ End-to-end analytics project based on NYC TLC taxi data.
 *  Analyzed KPIs, cohorts, retention and customer activity using SQL and Python/Pandas
 * **Stack:** SQL, PostgreSQL, Greenplum, ClickHouse, Python, Pandas, Airflow, Superset.
 
-####  [Hotel Financial Analytics · In Progress]((https://github.com/yana0330-kel/hotel-financial-analytics.git))
+####  [Hotel Financial Analytics · In Progress](https://github.com/yana0330-kel/hotel-financial-analytics.git)
 Financial and unit economics analysis of 6,050 hotel bookings for 2024.
 *  Analyzed revenue, sales channels and customer segments
 *  Studied unit economics of direct and intermediary channels
