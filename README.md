@@ -1,36 +1,55 @@
 # Hi there, I'm Yana Kel! 
 
-📩 **Email:** k.y.kel.yana@gmail.com  
+📩 **Email:** kelyana0330@gmail.com  
 💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
 
 ###  Professional Profile
-Analytics Engineer with hands-on experience in integrating multiple data sources, building ETL/ELT pipelines, and delivering end-to-end analytics. Built and optimized data warehouses, data marts, and data models with a focus on data quality, performance, and reliability. Experienced in implementing validation checks, monitoring, and business logic controls to support analytics and reporting.
+I'm a Data Analyst with a background in B2B banking and business analytics.
+I enjoy working with data from business question → analysis → insight.
+My main tools are SQL, Python/Pandas, BI, PostgreSQL, Greenplum, ClickHouse and Airflow.
+Here I share projects around business & product analytics, KPIs, data pipelines and visualization.
 
 ---
 
 ### Technical Stack & Tools
 
-*   **Core Analytics & Storage:** SQL, PostgreSQL, Greenplum, ClickHouse, Pandas
-*   **Orchestration & Infrastructure:** Apache Airflow, Docker, Git, DBeaver
+* **Analytics:** Business & Product Analytics, KPI analysis, Cohort & Retention Analysis, Funnel Analysis, A/B Testing, Segmentation, Anomaly Detection
+
+* **SQL & Databases:** SQL, PostgreSQL, Greenplum, ClickHouse, CTEs, Window Functions
+
+* **Python:** Pandas, NumPy, Matplotlib, Jupyter Notebook
+
+* **Data & BI:** Apache Airflow, ETL/ELT, DWH (Raw/Core/DM), Data Marts, Apache Superset, Tableau, Looker Studio, Redash
+
+* **Tools:** Git/GitLab, Docker, DBeaver, Jira, Confluence, VS Code, dbt
 
 ---
 
 ###  Featured Projects & Architecture
 
-####  [Corporate Banking Analytics & MPP Warehouse Architecture](https://github.com)
-*   **Objective:** Designed an analytical data mart inside an MPP environment to calculate **Net Interest Income (NII)** and portfolio profitability.
-*   **Implementation:** Deployed a local Greenplum cluster using Docker. Optimized query performance by setting appropriate distribution keys (`DISTRIBUTED BY`) for huge transactional fact tables and broadcasting small flat dimensions (`DISTRIBUTED REPLICATED`), achieving zero-network overhead via **Local Joins**.
-*   **Stack:** Greenplum Database, Advanced SQL, Docker, DBeaver.
+####  [NYC Taxi Data Analytics](https://github.com)
+End-to-end analytics project based on NYC TLC taxi data.
 
-####  [Data Quality Framework & Automated ETL Monitoring](https://github.com)
-*   **Objective:** Built a scalable data lineage pipeline with built-in financial data validation checks.
-*   **Implementation:** Implemented business logic controls, row-count tracking, and null-value monitoring inside staging layers to support executive-level regulatory reporting.
-*   **Stack:** PostgreSQL, Apache Airflow, Docker.
+*  Built an ELT pipeline: CSV → PostgreSQL → Greenplum → ClickHouse
+*  Automated data workflows with Airflow
+*  Created analytical data marts
+*  Built a Superset dashboard for revenue, trips and demand
+*  Analyzed KPIs, cohorts, retention and customer activity using SQL and Python/Pandas
+* **Stack:** SQL, PostgreSQL, Greenplum, ClickHouse, Python, Pandas, Airflow, Superset.
+
+####  [Hotel Financial Analytics · In Progress](https://github.com)
+*  Financial and unit economics analysis of 6,050 hotel bookings for 2024.
+*  Analyzed revenue, sales channels and customer segments
+*  Studied unit economics of direct and intermediary channels
+*  Analyzed revenue drivers and booking dynamics
+*  Built a PostgreSQL DWH using a Star Schema
+*  Created SQL data quality checks and financial reconciliation
+*  Preparing Excel financial model and Metabase dashboard
+*   **Stack:** Python, Pandas, SQL, PostgreSQL, Excel, Metabase, Docker
 
 ---
 
 ###  Contact & Collaboration
-I am always open to discussing data infrastructure optimization, robust business control implementations, or analytical modeling:
 *    **LinkedIn:** [Connect with me](https://linkedin)
-*    **Email:** k.y.kel.yana@gmail.com
+*    **Email:** kelyana0330@gmail.com
 
