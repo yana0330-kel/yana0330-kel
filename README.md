@@ -1,25 +1,22 @@
 # Hi there, I'm Yana Kel! 
 
-📩 **Email:** kelyana0330@gmail.com  
-💼 **LinkedIn:** [://linkedin.com](https://linkedin.com)
-
-###  Professional Profile
+###  About me
 I'm a Data Analyst with a background in B2B banking and business analytics.
 I enjoy working with data from business question → analysis → insight.
 My main tools are SQL, Python/Pandas, BI, PostgreSQL, Greenplum, ClickHouse and Airflow.
-Here I share projects around business & product analytics, KPIs, data pipelines and visualization.
+Here I share projects around business & product analytics, KPIs and data visualization.
 
 ---
 
 ### Technical Stack & Tools
-* **Analytics:** Business & Product Analytics, KPI analysis, Cohort & Retention Analysis, Funnel Analysis, A/B Testing, Segmentation, Anomaly Detection
+* **Analytics:** Business & Product Analytics, KPI analysis, Cohort & Retention Analysis, Funnel Analysis, A/B Testing, Segmentation
 * **SQL & Databases:** SQL, PostgreSQL, Greenplum, ClickHouse, CTEs, Window Functions
 * **Python:** Pandas, NumPy, Matplotlib, Jupyter Notebook
 * **Data & BI:** Apache Airflow, ETL/ELT, DWH (Raw/Core/DM), Data Marts, Apache Superset, Tableau, Looker Studio, Redash
 * **Tools:** Git/GitLab, Docker, DBeaver, Jira, Confluence, VS Code, dbt
 ---
 
-###  Featured Projects & Architecture
+###  Featured Projects
 
 ####  [NYC Taxi Data Analytics]([https://github.com](https://github.com/yana0330-kel/taxi-analytics.git))
 End-to-end analytics project based on NYC TLC taxi data.
@@ -30,7 +27,7 @@ End-to-end analytics project based on NYC TLC taxi data.
 *  Analyzed KPIs, cohorts, retention and customer activity using SQL and Python/Pandas
 * **Stack:** SQL, PostgreSQL, Greenplum, ClickHouse, Python, Pandas, Airflow, Superset.
 
-####  [Hotel Financial Analytics · In Progress](https://github.com)
+####  [Hotel Financial Analytics · In Progress]
 Financial and unit economics analysis of 6,050 hotel bookings for 2024.
 *  Analyzed revenue, sales channels and customer segments
 *  Studied unit economics of direct and intermediary channels
@@ -42,7 +39,8 @@ Financial and unit economics analysis of 6,050 hotel bookings for 2024.
 
 ---
 
-###  Contact & Collaboration
-*    **LinkedIn:** [Connect with me](https://linkedin)
+###  Contact
+*    **LinkedIn:** [Connect with me](linkedin.com/in/yana-kel-201570127)
 *    **Email:** kelyana0330@gmail.com
+*    **Telegram:** @iana_kel
 
