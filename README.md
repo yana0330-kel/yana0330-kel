@@ -1,7 +1,7 @@
 # Hi there, I'm Yana Kel! 
 
 ###  About me
-I'm a Data Analyst with a background in B2B banking and business analytics.
+I'm a Analyst with a background in B2B banking and business analytics.
 I enjoy working with data from business question → analysis → insight.
 My main tools are SQL, Python/Pandas, BI, PostgreSQL, Greenplum, ClickHouse and Airflow.
 Here I share projects around business & product analytics, KPIs and data visualization.
